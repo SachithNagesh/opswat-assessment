@@ -1,0 +1,17 @@
+{
+  "name": "opswat-candidate-assessment",
+  "version": "1.0.0",
+  "description": "OPSWAT Candidate Assessment to scan against their Metadefender API",
+  "main": "index.js",
+  "scripts": {
+    "upload_file": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sachith Nagesh",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "md5": "^2.3.0",
+    "node-fetch": "^2.6.1"
+  }
+}
