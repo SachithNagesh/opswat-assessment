@@ -55,7 +55,7 @@ END
 
 1. `index.js` - Starting point of the program
 2. `/api` - Contains 3 functions used for API calls
-3. `/utils` - Contains required utility functions
+3. `/helpers` - Contains required helper functions accordingly in respective files
 4. `package.json` - Contains information about the project, dependencies and scripts to run
 
 ## Third-party libraries used
